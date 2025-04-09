@@ -11,15 +11,12 @@ I have created a SaaS WebApp where users can browse the different services and s
 - Admin dashboard to manage the users.
 
 
-Website: https://saasapp-1ql7.onrender.com/home
-
-Implementation Video: https://youtu.be/vxD8vmYAmUg
 
 ## Installation
 
 Clone the main branch of the repo
 ```bash
-git clone https://github.com/knehaa/subscription-services.git
+git clone https://github.com/himanshi2003/subscription-services-main
 ```
 Install the [npm](https://docs.npmjs.com/) package manager.
 ```bash
@@ -37,15 +34,7 @@ npm start
 ```
 The same process will apply for backend as well.
 
-```
-Admin credentials:
-id:admin@gmail.com
-pw:admin123
 
-Super Admin credentials:
-id:superadmin@gmail.com
-pw:superadmin
-```
 
 Tech Stack Used:
 - React JS
